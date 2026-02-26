@@ -2,16 +2,17 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I%27m%20Dulan%20Prabashwara&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Passionate%20IT%20Undergraduate%20from%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;IT+Undergraduate+%40+University+of+Moratuwa;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;IT+Undergraduate+%40+University+of+Moratuwa;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabashwaranipun4&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/prabashwaranipun4?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/prabashwaranipun4?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 ## 🧑‍💻 About Me
 
@@ -26,7 +27,7 @@
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -34,7 +35,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=prabashwaranipun4&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 ## 🛠️ Languages and Tools
 
@@ -66,7 +67,21 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 
----
+<details>
+<summary>🖥️ Workspace & Tools</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -79,15 +94,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabashwaranipun4&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prabashwaranipun4/prabashwaranipun4/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabashwaranipun4/prabashwaranipun4/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabashwaranipun4/prabashwaranipun4/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/prabashwaranipun4/prabashwaranipun4/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabashwaranipun4/prabashwaranipun4/output/github-snake-game.svg" alt="Colorful Snake Game Animation"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 ## 📈 Activity Graph
 
@@ -95,7 +118,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabashwaranipun4&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
+
+## 😂 Random Dev Meme
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%2300D9FF&aColor=%23FF6B6B" alt="Dev Joke" width="500"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 ## 🤝 Connect With Me
 
@@ -111,7 +150,7 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <div align="center">
 
