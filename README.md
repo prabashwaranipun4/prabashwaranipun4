@@ -128,7 +128,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
-## 😂 Random Dev Meme
+## 😂 Random Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%2300D9FF&aColor=%23FF6B6B" alt="Dev Joke" width="500"/>
